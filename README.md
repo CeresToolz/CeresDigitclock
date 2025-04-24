@@ -28,15 +28,6 @@
 ---
 
 ## 🚀 How to Use
-
-1. **Download or clone the repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/jacks-digital-clock.git
-```
-
-2. **Build the project in Visual Studio**
-   - Make sure to target `.NET Framework 4.7.2`
-
 3. **Run `DigitalClock.exe`**
    - The clock appears instantly, always on top
 
